@@ -13,9 +13,9 @@ To control an LED based on ambient ligth intensity using an LDR and Arduino UNO
 	Photoresistor
   
 ## Circuit Diagram:
-```
+
 <img width="1455" height="780" alt="image" src="https://github.com/user-attachments/assets/9b44e251-1e1a-4caf-a67a-636a61449281" />
-```
+
 
 ## Theory :
 
